@@ -1,0 +1,602 @@
+[
+    {
+        "rarebearz": "1",
+        "id": "16670",
+        "inscription": "11f3ee01fee7852279789056fc2f320dbb2df6ea90be41dbc97a1b593a211b23",
+        "link": "https://ordinalslite.com/tx/11f3ee01fee7852279789056fc2f320dbb2df6ea90be41dbc97a1b593a211b23"
+    },
+    {
+        "rarebearz": "2",
+        "id": "16770",
+        "inscription": "32b09efe030952f6c6d91b76edce95a2726dff37748a3ad11c54f387a639b0cb",
+        "link": "https://ordinalslite.com/tx/32b09efe030952f6c6d91b76edce95a2726dff37748a3ad11c54f387a639b0cb"
+    },
+    {
+        "rarebearz": "3",
+        "id": "16823",
+        "inscription": "51dbad72ca9b611a91cad7297472d35110a26dd42099c6f86efa85de338b722d",
+        "link": "https://ordinalslite.com/tx/51dbad72ca9b611a91cad7297472d35110a26dd42099c6f86efa85de338b722d"
+    },
+    {
+        "rarebearz": "4",
+        "id": "16899",
+        "inscription": "6691babddd1f9770fb2227064f05f2bb55de64a580cc9395099a63da64d32a5e",
+        "link": "https://ordinalslite.com/tx/6691babddd1f9770fb2227064f05f2bb55de64a580cc9395099a63da64d32a5e"
+    },
+    {
+        "rarebearz": "5",
+        "id": "17009",
+        "inscription": "ccf52277a8b8d0d519037aa05eeb966e025e0d5e013d88d6309ac7e4c94b5ac7",
+        "link": "https://ordinalslite.com/tx/ccf52277a8b8d0d519037aa05eeb966e025e0d5e013d88d6309ac7e4c94b5ac7"
+    },
+    {
+        "rarebearz": "6",
+        "id": "17083",
+        "inscription": "74d32dbf83bd3af4dbc28763d01e3d81c08e8c9a0ec27db99569afb8610a191d",
+        "link": "https://ordinalslite.com/tx/74d32dbf83bd3af4dbc28763d01e3d81c08e8c9a0ec27db99569afb8610a191d"
+    },
+    {
+        "rarebearz": "7",
+        "id": "17139",
+        "inscription": "b43a88de3a40b2523d78bcfe3a7d74c32a0b2e9a1cf6f591579dce6eae8c0801",
+        "link": "https://ordinalslite.com/tx/b43a88de3a40b2523d78bcfe3a7d74c32a0b2e9a1cf6f591579dce6eae8c0801"
+    },
+    {
+        "rarebearz": "8",
+        "id": "17140",
+        "inscription": "cd74ac94bcb5177dc09baa1b750392b5f09a2519902bde6f1d50bf781b680b1e",
+        "link": "https://ordinalslite.com/tx/cd74ac94bcb5177dc09baa1b750392b5f09a2519902bde6f1d50bf781b680b1e"
+    },
+    {
+        "rarebearz": "9",
+        "id": "17192",
+        "inscription": "e829b79c409f2a688e50251d55fff666f16b177bdd9b5384015f2465a8ffc5d0",
+        "link": "https://ordinalslite.com/tx/e829b79c409f2a688e50251d55fff666f16b177bdd9b5384015f2465a8ffc5d0"
+    },
+    {
+        "rarebearz": "10",
+        "id": "17245",
+        "inscription": "ad9537448050b001c6afc3ff7c3c29876954052a0aa511b81dfba8dec77b3feb",
+        "link": "https://ordinalslite.com/tx/ad9537448050b001c6afc3ff7c3c29876954052a0aa511b81dfba8dec77b3feb"
+    },
+    {
+        "rarebearz": "11",
+        "id": "17385",
+        "inscription": "06202584c9717a949632bf613bdbb18c51dd56169735ab8a5d77adf77fd391c0",
+        "link": "https://ordinalslite.com/tx/06202584c9717a949632bf613bdbb18c51dd56169735ab8a5d77adf77fd391c0"
+    },
+    {
+        "rarebearz": "12",
+        "id": "17439",
+        "inscription": "a2287765006ca68e17fa08630e38c16898edc551384925836ac0b8a776a9170e",
+        "link": "https://ordinalslite.com/tx/a2287765006ca68e17fa08630e38c16898edc551384925836ac0b8a776a9170e"
+    },
+    {
+        "rarebearz": "13",
+        "id": "17539",
+        "inscription": "2be3d122b0f1b038b37ddb3c6f717324e48a85fbba341287677acc3783e9c0c7",
+        "link": "https://ordinalslite.com/tx/2be3d122b0f1b038b37ddb3c6f717324e48a85fbba341287677acc3783e9c0c7"
+    },
+    {
+        "rarebearz": "14",
+        "id": "17583",
+        "inscription": "4f32a3d116b3584fb787759585e5561432dc9020e3883f0975d8f7447459380d",
+        "link": "https://ordinalslite.com/tx/4f32a3d116b3584fb787759585e5561432dc9020e3883f0975d8f7447459380d"
+    },
+    {
+        "rarebearz": "15",
+        "id": "17674",
+        "inscription": "89c3800434991703316619e22a911d8e85cba9196cb90d59d463dcbc4ce6fd3a",
+        "link": "https://ordinalslite.com/tx/89c3800434991703316619e22a911d8e85cba9196cb90d59d463dcbc4ce6fd3a"
+    },
+    {
+        "rarebearz": "16",
+        "id": "17753",
+        "inscription": "20d0c6b5b4edd8ecdd3cda2e35c0adb35f61112dca30699b90a556ea064534e0",
+        "link": "https://ordinalslite.com/tx/20d0c6b5b4edd8ecdd3cda2e35c0adb35f61112dca30699b90a556ea064534e0"
+    },
+    {
+        "rarebearz": "17",
+        "id": "17806",
+        "inscription": "6ecc7242436a63c668352cb06adf516e796d8519ee99778b0acb365dc240eb14",
+        "link": "https://ordinalslite.com/tx/6ecc7242436a63c668352cb06adf516e796d8519ee99778b0acb365dc240eb14"
+    },
+    {
+        "rarebearz": "18",
+        "id": "17984",
+        "inscription": "f8a9b36e7e9bf7fbba72e548cacb1665b37169bf4eae34fb1f7a84159968ee9e",
+        "link": "https://ordinalslite.com/tx/f8a9b36e7e9bf7fbba72e548cacb1665b37169bf4eae34fb1f7a84159968ee9e"
+    },
+    {
+        "rarebearz": "19",
+        "id": "18102",
+        "inscription": "fcf2e927a9f1f0473a7be9c56b6cf839700303f5e84f8bb7a576204190f003a8",
+        "link": "https://ordinalslite.com/tx/fcf2e927a9f1f0473a7be9c56b6cf839700303f5e84f8bb7a576204190f003a8"
+    },
+    {
+        "rarebearz": "20",
+        "id": "18154",
+        "inscription": "0509180c5c789745e4552c51590bd77ab8fbd7d59a638142ae0bbfd05b6586c1",
+        "link": "https://ordinalslite.com/tx/0509180c5c789745e4552c51590bd77ab8fbd7d59a638142ae0bbfd05b6586c1"
+    },
+    {
+        "rarebearz": "21",
+        "id": "18327",
+        "inscription": "e82717e7e7385a0d113183518788af97d2e67bfd176b18358762ce35f41117b4",
+        "link": "https://ordinalslite.com/tx/e82717e7e7385a0d113183518788af97d2e67bfd176b18358762ce35f41117b4"
+    },
+    {
+        "rarebearz": "22",
+        "id": "18430",
+        "inscription": "54556a33bcd656184aa54b803ee32b27a8b0bfc47881e635d372ad2ba11f5ab7",
+        "link": "https://ordinalslite.com/tx/54556a33bcd656184aa54b803ee32b27a8b0bfc47881e635d372ad2ba11f5ab7"
+    },
+    {
+        "rarebearz": "23",
+        "id": "18504",
+        "inscription": "3c400e7cd20975d3e906718da83e42ab69ce2daeee5d265faf4de1b191124d32",
+        "link": "https://ordinalslite.com/tx/3c400e7cd20975d3e906718da83e42ab69ce2daeee5d265faf4de1b191124d32"
+    },
+    {
+        "rarebearz": "24",
+        "id": "18616",
+        "inscription": "9cb80da34dab427b6c4b1f9b34c9b86bdc9b44ea95ef34d21ddf49512525f620",
+        "link": "https://ordinalslite.com/tx/9cb80da34dab427b6c4b1f9b34c9b86bdc9b44ea95ef34d21ddf49512525f620"
+    },
+    {
+        "rarebearz": "25",
+        "id": "18722",
+        "inscription": "d7807b4501f397dd4de10c401956d96539af5dd621a15bb3d5dd5a4e6fe10bcf",
+        "link": "https://ordinalslite.com/tx/d7807b4501f397dd4de10c401956d96539af5dd621a15bb3d5dd5a4e6fe10bcf"
+    },
+    {
+        "rarebearz": "26",
+        "id": "18723",
+        "inscription": "66939887ad75a1d403a0ed1e46529e07b52b683280d93a0ee9cf3c74307b3630",
+        "link": "https://ordinalslite.com/tx/66939887ad75a1d403a0ed1e46529e07b52b683280d93a0ee9cf3c74307b3630"
+    },
+    {
+        "rarebearz": "27",
+        "id": "18724",
+        "inscription": "87da4609faab1777c9b22c6de99d3c1cfcc6c65af3bb7e95e60106489dadfbd7",
+        "link": "https://ordinalslite.com/tx/87da4609faab1777c9b22c6de99d3c1cfcc6c65af3bb7e95e60106489dadfbd7"
+    },
+    {
+        "rarebearz": "28",
+        "id": "18772",
+        "inscription": "d1004b80fab7a7a0cd76a5807227335a1642d5fb66caf0cfb5825bb9e20b24a7",
+        "link": "https://ordinalslite.com/tx/d1004b80fab7a7a0cd76a5807227335a1642d5fb66caf0cfb5825bb9e20b24a7"
+    },
+    {
+        "rarebearz": "29",
+        "id": "18773",
+        "inscription": "5ed8744984a41175bad78260dcc0c7909f5a6b8cd77f0f677ff37d9f4fafd21f",
+        "link": "https://ordinalslite.com/tx/5ed8744984a41175bad78260dcc0c7909f5a6b8cd77f0f677ff37d9f4fafd21f"
+    },
+    {
+        "rarebearz": "30",
+        "id": "18774",
+        "inscription": "6f662599151c14f7b530de2b181c08435fe000335de67b58c72034f46988033e",
+        "link": "https://ordinalslite.com/tx/6f662599151c14f7b530de2b181c08435fe000335de67b58c72034f46988033e"
+    },
+    {
+        "rarebearz": "31",
+        "id": "18814",
+        "inscription": "74267c4c084d84ee7c7f8b7ba868c4602c7b7b27bc070663ec94f9eae788b7c0",
+        "link": "https://ordinalslite.com/tx/74267c4c084d84ee7c7f8b7ba868c4602c7b7b27bc070663ec94f9eae788b7c0"
+    },
+    {
+        "rarebearz": "32",
+        "id": "18815",
+        "inscription": "65cc6323dd38cc8e546b1427452639bf891653540b7cd1ea721a6385359f62fd",
+        "link": "https://ordinalslite.com/tx/65cc6323dd38cc8e546b1427452639bf891653540b7cd1ea721a6385359f62fd"
+    },
+    {
+        "rarebearz": "33",
+        "id": "18816",
+        "inscription": "629410f41346ff43ca1511c2ccbb80bceb5aa3d7f8de9784fcb612d6f68099f1",
+        "link": "https://ordinalslite.com/tx/629410f41346ff43ca1511c2ccbb80bceb5aa3d7f8de9784fcb612d6f68099f1"
+    },
+    {
+        "rarebearz": "34",
+        "id": "18870",
+        "inscription": "e9b06d544e3031a714de0cc5f5d548dc2637262084b4786d9716a881204463e8",
+        "link": "https://ordinalslite.com/tx/e9b06d544e3031a714de0cc5f5d548dc2637262084b4786d9716a881204463e8"
+    },
+    {
+        "rarebearz": "35",
+        "id": "18871",
+        "inscription": "03a190a059220269a7694cf507e6d420f365e43fc3a2cc248f3e4609461f10d0",
+        "link": "https://ordinalslite.com/tx/03a190a059220269a7694cf507e6d420f365e43fc3a2cc248f3e4609461f10d0"
+    },
+    {
+        "rarebearz": "36",
+        "id": "18872",
+        "inscription": "6aaacf755667971360740b0c8747c1cf8543dbe89a38adb0a734f3fa8731c086",
+        "link": "https://ordinalslite.com/tx/6aaacf755667971360740b0c8747c1cf8543dbe89a38adb0a734f3fa8731c086"
+    },
+    {
+        "rarebearz": "37",
+        "id": "18926",
+        "inscription": "118fa02e2ee3fb3c27fe2497cf2e526b971a9b967e30952e7194df73e8f8d973",
+        "link": "https://ordinalslite.com/tx/118fa02e2ee3fb3c27fe2497cf2e526b971a9b967e30952e7194df73e8f8d973"
+    },
+    {
+        "rarebearz": "38",
+        "id": "18927",
+        "inscription": "dd0ff935ff995cc1558f6ed2f1d97e91ff80bb672bc9059fed4d2c91957cb9ca",
+        "link": "https://ordinalslite.com/tx/dd0ff935ff995cc1558f6ed2f1d97e91ff80bb672bc9059fed4d2c91957cb9ca"
+    },
+    {
+        "rarebearz": "39",
+        "id": "18928",
+        "inscription": "66cfe89a70cbf2f5afedba25ff2870463eb369fbe92d97d7ce28c13663bf509b",
+        "link": "https://ordinalslite.com/tx/66cfe89a70cbf2f5afedba25ff2870463eb369fbe92d97d7ce28c13663bf509b"
+    },
+    {
+        "rarebearz": "40",
+        "id": "18981",
+        "inscription": "357f927afbe3aafe4a943319fcae73d0d22aef65ebce83c152b7c8236943c2c1",
+        "link": "https://ordinalslite.com/tx/357f927afbe3aafe4a943319fcae73d0d22aef65ebce83c152b7c8236943c2c1"
+    },
+    {
+        "rarebearz": "41",
+        "id": "18982",
+        "inscription": "157c4231c4aa0e77af619b3a52b9d375126382b794407b4e6bb7de7ad1a6c82f",
+        "link": "https://ordinalslite.com/tx/157c4231c4aa0e77af619b3a52b9d375126382b794407b4e6bb7de7ad1a6c82f"
+    },
+    {
+        "rarebearz": "42",
+        "id": "18983",
+        "inscription": "8200ec520db4a93361a52d7ca5e4542f7c94ba998f59df0e0312316c4ddb9708",
+        "link": "https://ordinalslite.com/tx/8200ec520db4a93361a52d7ca5e4542f7c94ba998f59df0e0312316c4ddb9708"
+    },
+    {
+        "rarebearz": "43",
+        "id": "19037",
+        "inscription": "17dcbef44b86ad79b30a3d30cd4e306124677419be4a7e61ee4f54221a621998",
+        "link": "https://ordinalslite.com/tx/17dcbef44b86ad79b30a3d30cd4e306124677419be4a7e61ee4f54221a621998"
+    },
+    {
+        "rarebearz": "44",
+        "id": "19038",
+        "inscription": "e95f5b0ad49ad1c1dc8137e077665afc782ba180f25bb540d01ab96ddc7cfa12",
+        "link": "https://ordinalslite.com/tx/e95f5b0ad49ad1c1dc8137e077665afc782ba180f25bb540d01ab96ddc7cfa12"
+    },
+    {
+        "rarebearz": "45",
+        "id": "19039",
+        "inscription": "11942d2938406cc6405ef35356b97883db93d8a5ea0e946baabe9b6bccafce55",
+        "link": "https://ordinalslite.com/tx/11942d2938406cc6405ef35356b97883db93d8a5ea0e946baabe9b6bccafce55"
+    },
+    {
+        "rarebearz": "46",
+        "id": "19144",
+        "inscription": "6c916f8e556ccf0f8f7b2d29836642317db5b2d60f5528990a740e07068ca84b",
+        "link": "https://ordinalslite.com/tx/6c916f8e556ccf0f8f7b2d29836642317db5b2d60f5528990a740e07068ca84b"
+    },
+    {
+        "rarebearz": "47",
+        "id": "19145",
+        "inscription": "fdd914ed807bd4a7fe07e2d3eb7059b8a429fbd21b232cdb90b993a7128600f0",
+        "link": "https://ordinalslite.com/tx/fdd914ed807bd4a7fe07e2d3eb7059b8a429fbd21b232cdb90b993a7128600f0"
+    },
+    {
+        "rarebearz": "48",
+        "id": "19146",
+        "inscription": "c82280e829df8a9b0bd3a0fc087546446d2279b69143c76dc8d534ae1466b6a8",
+        "link": "https://ordinalslite.com/tx/c82280e829df8a9b0bd3a0fc087546446d2279b69143c76dc8d534ae1466b6a8"
+    },
+    {
+        "rarebearz": "49",
+        "id": "19263",
+        "inscription": "25c4554641cc0ac30675fbda2f605cf3cf5df6237890d3a8b58b0815ac4b4d35",
+        "link": "https://ordinalslite.com/tx/25c4554641cc0ac30675fbda2f605cf3cf5df6237890d3a8b58b0815ac4b4d35"
+    },
+    {
+        "rarebearz": "50",
+        "id": "19264",
+        "inscription": "0cf40c484728495821f50fb0c161a014878b2e051163777ba0d10a2f3247d714",
+        "link": "https://ordinalslite.com/tx/0cf40c484728495821f50fb0c161a014878b2e051163777ba0d10a2f3247d714"
+    },
+    {
+        "rarebearz": "51",
+        "id": "19265",
+        "inscription": "a843d865d654519ac5755f3542523a883e39a72dc4a487513edd10f23a8440f6",
+        "link": "https://ordinalslite.com/tx/a843d865d654519ac5755f3542523a883e39a72dc4a487513edd10f23a8440f6"
+    },
+    {
+        "rarebearz": "52",
+        "id": "19355",
+        "inscription": "040e197d859e2790db2fc4a6bd59ad737923808c19f560577ed54315fce32598",
+        "link": "https://ordinalslite.com/tx/040e197d859e2790db2fc4a6bd59ad737923808c19f560577ed54315fce32598"
+    },
+    {
+        "rarebearz": "53",
+        "id": "19356",
+        "inscription": "7569f17330d03639b32e327e8c67fbffe3ab516103096389d99dabc9f8a6f726",
+        "link": "https://ordinalslite.com/tx/7569f17330d03639b32e327e8c67fbffe3ab516103096389d99dabc9f8a6f726"
+    },
+    {
+        "rarebearz": "54",
+        "id": "19357",
+        "inscription": "42c0e82d31ac5feac4f8e7d12534f15d5b955c03c0d65568011e56814e78dbc2",
+        "link": "https://ordinalslite.com/tx/42c0e82d31ac5feac4f8e7d12534f15d5b955c03c0d65568011e56814e78dbc2"
+    },
+    {
+        "rarebearz": "55",
+        "id": "19651",
+        "inscription": "e76cd4607b6a41a8bdaffba0159ac3af07a41d331a1f6a86153e23e827bf1921",
+        "link": "https://ordinalslite.com/tx/e76cd4607b6a41a8bdaffba0159ac3af07a41d331a1f6a86153e23e827bf1921"
+    },
+    {
+        "rarebearz": "56",
+        "id": "19652",
+        "inscription": "511f01b27643927d1f354300d13acede7f0e6b0229399937cfdec295738d0799",
+        "link": "https://ordinalslite.com/tx/511f01b27643927d1f354300d13acede7f0e6b0229399937cfdec295738d0799"
+    },
+    {
+        "rarebearz": "57",
+        "id": "19653",
+        "inscription": "11242f54d614668aea3b4c86ee74db8a2034321b41a48c654f55b404672d915e",
+        "link": "https://ordinalslite.com/tx/11242f54d614668aea3b4c86ee74db8a2034321b41a48c654f55b404672d915e"
+    },
+    {
+        "rarebearz": "58",
+        "id": "19752",
+        "inscription": "a576061e0982426cd2819176273895b81b646f4d5bb6cbdf245abe35595fc290",
+        "link": "https://ordinalslite.com/tx/a576061e0982426cd2819176273895b81b646f4d5bb6cbdf245abe35595fc290"
+    },
+    {
+        "rarebearz": "59",
+        "id": "19799",
+        "inscription": "383b82a1e15cf879698a00cae38cae638212c44652bb7a76547c5bfc52a6c550",
+        "link": "https://ordinalslite.com/tx/383b82a1e15cf879698a00cae38cae638212c44652bb7a76547c5bfc52a6c550"
+    },
+    {
+        "rarebearz": "60",
+        "id": "19800",
+        "inscription": "bb309394ee5380502082a819baf4953e0e37e0d16a280363b4ac0c18cee916dc",
+        "link": "https://ordinalslite.com/tx/bb309394ee5380502082a819baf4953e0e37e0d16a280363b4ac0c18cee916dc"
+    },
+    {
+        "rarebearz": "61",
+        "id": "19801",
+        "inscription": "d5d05f46adf6c92a2ea03c2d40472d20fc56587c1c678c9e0f185be44ed60bf2",
+        "link": "https://ordinalslite.com/tx/d5d05f46adf6c92a2ea03c2d40472d20fc56587c1c678c9e0f185be44ed60bf2"
+    },
+    {
+        "rarebearz": "62",
+        "id": "19802",
+        "inscription": "edfd8ce986ab264e887d4be6b94d896c6a853180aa3a780ec6368ab24d85f538",
+        "link": "https://ordinalslite.com/tx/edfd8ce986ab264e887d4be6b94d896c6a853180aa3a780ec6368ab24d85f538"
+    },
+    {
+        "rarebearz": "63",
+        "id": "19803",
+        "inscription": "a9ad2cc35d360f95dcfa29cbd91b24012968b67e1e73ea90de5b48078540bc65",
+        "link": "https://ordinalslite.com/tx/a9ad2cc35d360f95dcfa29cbd91b24012968b67e1e73ea90de5b48078540bc65"
+    },
+    {
+        "rarebearz": "64",
+        "id": "19943",
+        "inscription": "8f309bee93f5478e9fc8cf58c046dc634424c858f4ecdf7c127da96bf0aa5bed",
+        "link": "https://ordinalslite.com/tx/8f309bee93f5478e9fc8cf58c046dc634424c858f4ecdf7c127da96bf0aa5bed"
+    },
+    {
+        "rarebearz": "65",
+        "id": "19970",
+        "inscription": "3d2a60342dadb4ba3824578f91abd03ebebd61d8560a9023682207feba00cfbf",
+        "link": "https://ordinalslite.com/tx/3d2a60342dadb4ba3824578f91abd03ebebd61d8560a9023682207feba00cfbf"
+    },
+    {
+        "rarebearz": "66",
+        "id": "19971",
+        "inscription": "f4ddb147f9d9e508f028a9f85e07d21cfc037698a5d255f313471ac47ee28398",
+        "link": "https://ordinalslite.com/tx/f4ddb147f9d9e508f028a9f85e07d21cfc037698a5d255f313471ac47ee28398"
+    },
+    {
+        "rarebearz": "67",
+        "id": "20160",
+        "inscription": "28d9dc7d183727d419ff1850acf4b98392ae05023d0f3b20bba9bdd84b998eec",
+        "link": "https://ordinalslite.com/tx/28d9dc7d183727d419ff1850acf4b98392ae05023d0f3b20bba9bdd84b998eec"
+    },
+    {
+        "rarebearz": "68",
+        "id": "20161",
+        "inscription": "cdccdcc989caa739f0627b58bcf14a11bdfd8687ac6b19a99ee33fcf2f1266b0",
+        "link": "https://ordinalslite.com/tx/cdccdcc989caa739f0627b58bcf14a11bdfd8687ac6b19a99ee33fcf2f1266b0"
+    },
+    {
+        "rarebearz": "69",
+        "id": "20162",
+        "inscription": "0185015da50f2caa3a8ab3e62bd936888feca7cfe0846bd93d8fa8d2550be7c7",
+        "link": "https://ordinalslite.com/tx/0185015da50f2caa3a8ab3e62bd936888feca7cfe0846bd93d8fa8d2550be7c7"
+    },
+    {
+        "rarebearz": "70",
+        "id": "20261",
+        "inscription": "c6e2cdb239fa9ca078628d0bace7e96e5bc73425ccb1b143e73d97fd9cd20891",
+        "link": "https://ordinalslite.com/tx/c6e2cdb239fa9ca078628d0bace7e96e5bc73425ccb1b143e73d97fd9cd20891"
+    },
+    {
+        "rarebearz": "71",
+        "id": "20282",
+        "inscription": "447a950fa1b45fdfd7672181a4a120b6dac3ef071c9875968fe778b2a3dd60d6",
+        "link": "https://ordinalslite.com/tx/447a950fa1b45fdfd7672181a4a120b6dac3ef071c9875968fe778b2a3dd60d6"
+    },
+    {
+        "rarebearz": "72",
+        "id": "20283",
+        "inscription": "30ab1092cd73d829433779bfcbe6e8157efc85684cf0f7ed184a25e51292ff9b",
+        "link": "https://ordinalslite.com/tx/30ab1092cd73d829433779bfcbe6e8157efc85684cf0f7ed184a25e51292ff9b"
+    },
+    {
+        "rarebearz": "73",
+        "id": "20326",
+        "inscription": "0bd99019d31ca332b38b5e742b7eb35452adf4a8eb4d202999ba826f3502d552",
+        "link": "https://ordinalslite.com/tx/0bd99019d31ca332b38b5e742b7eb35452adf4a8eb4d202999ba826f3502d552"
+    },
+    {
+        "rarebearz": "74",
+        "id": "20327",
+        "inscription": "a85b8ed652a95263e9f8a2392eb80d764a4f222174fc88cc8a1bdedca60dab44",
+        "link": "https://ordinalslite.com/tx/a85b8ed652a95263e9f8a2392eb80d764a4f222174fc88cc8a1bdedca60dab44"
+    },
+    {
+        "rarebearz": "75",
+        "id": "20328",
+        "inscription": "8f14eed8e400e9cf51a38375e15eda9285eb8b9cf00f25e995c482f1a936ae10",
+        "link": "https://ordinalslite.com/tx/8f14eed8e400e9cf51a38375e15eda9285eb8b9cf00f25e995c482f1a936ae10"
+    },
+    {
+        "rarebearz": "76",
+        "id": "20332",
+        "inscription": "b8f14934f174e122b605ee5e700e7977fbe6c6c264ff5bcd04dc5da6bcf34804",
+        "link": "https://ordinalslite.com/tx/b8f14934f174e122b605ee5e700e7977fbe6c6c264ff5bcd04dc5da6bcf34804"
+    },
+    {
+        "rarebearz": "77",
+        "id": "20333",
+        "inscription": "3f008f74cbbe1f3c09c251d9ef61a5a5b6c39397794602549900de9cf9976e88",
+        "link": "https://ordinalslite.com/tx/3f008f74cbbe1f3c09c251d9ef61a5a5b6c39397794602549900de9cf9976e88"
+    },
+    {
+        "rarebearz": "78",
+        "id": "20334",
+        "inscription": "4f40e1b45c650330b6038425e95c08c05a5e9cb17f09871a043ad5c4e0c5f874",
+        "link": "https://ordinalslite.com/tx/4f40e1b45c650330b6038425e95c08c05a5e9cb17f09871a043ad5c4e0c5f874"
+    },
+    {
+        "rarebearz": "79",
+        "id": "20336",
+        "inscription": "a0b74545f46440a73b5bc2a59dc682fe4b4819d16c90b86924a315ee66932ff0",
+        "link": "https://ordinalslite.com/tx/a0b74545f46440a73b5bc2a59dc682fe4b4819d16c90b86924a315ee66932ff0"
+    },
+    {
+        "rarebearz": "80",
+        "id": "20337",
+        "inscription": "abce79230f8c38abb40facfc636f17f59c20c54e1d8eec825e5c28a747e812d4",
+        "link": "https://ordinalslite.com/tx/abce79230f8c38abb40facfc636f17f59c20c54e1d8eec825e5c28a747e812d4"
+    },
+    {
+        "rarebearz": "81",
+        "id": "20338",
+        "inscription": "6a5b4f7ae50256d35919875215eef71af3380e3cecc7aed676afb13088ccd2b0",
+        "link": "https://ordinalslite.com/tx/6a5b4f7ae50256d35919875215eef71af3380e3cecc7aed676afb13088ccd2b0"
+    },
+    {
+        "rarebearz": "82",
+        "id": "20340",
+        "inscription": "80a1725ceaedfa2f9f7564541d3f90ea5d7e31d54c3a1e969774476feb40e8ed",
+        "link": "https://ordinalslite.com/tx/80a1725ceaedfa2f9f7564541d3f90ea5d7e31d54c3a1e969774476feb40e8ed"
+    },
+    {
+        "rarebearz": "83",
+        "id": "20341",
+        "inscription": "721ddb790a6233f74bafb6effba5ec04e4d575fc1e3e9d4190264a0c432cce5e",
+        "link": "https://ordinalslite.com/tx/721ddb790a6233f74bafb6effba5ec04e4d575fc1e3e9d4190264a0c432cce5e"
+    },
+    {
+        "rarebearz": "84",
+        "id": "20342",
+        "inscription": "776a993e842bb85da63e0e0d78ac6544e7816bcfde245dca040a26550d204734",
+        "link": "https://ordinalslite.com/tx/776a993e842bb85da63e0e0d78ac6544e7816bcfde245dca040a26550d204734"
+    },
+    {
+        "rarebearz": "85",
+        "id": "20343",
+        "inscription": "90d6bb80592654ce346bc9517c79cccf3954e9c76c02511d0a34a805f8cd0648",
+        "link": "https://ordinalslite.com/tx/90d6bb80592654ce346bc9517c79cccf3954e9c76c02511d0a34a805f8cd0648"
+    },
+    {
+        "rarebearz": "86",
+        "id": "20344",
+        "inscription": "cbbe8ddf2001c4d42b0937e7c2d6952c3a2afe04b6f2ef0387aa8f4bc70f010e",
+        "link": "https://ordinalslite.com/tx/cbbe8ddf2001c4d42b0937e7c2d6952c3a2afe04b6f2ef0387aa8f4bc70f010e"
+    },
+    {
+        "rarebearz": "87",
+        "id": "20345",
+        "inscription": "393311d14142de4b4ce0accb36abcadb7eaba8df7fa89f92e4965b870dabeeda",
+        "link": "https://ordinalslite.com/tx/393311d14142de4b4ce0accb36abcadb7eaba8df7fa89f92e4965b870dabeeda"
+    },
+    {
+        "rarebearz": "88",
+        "id": "20350",
+        "inscription": "ec9471805be8133bbfb338e1d664c233c071ad0b5adaff2cafae2bbd56533e59",
+        "link": "https://ordinalslite.com/tx/ec9471805be8133bbfb338e1d664c233c071ad0b5adaff2cafae2bbd56533e59"
+    },
+    {
+        "rarebearz": "89",
+        "id": "20351",
+        "inscription": "60830978f0dc34c831f1aa3987406fe677730e535a5bae522d70a55f424da4f6",
+        "link": "https://ordinalslite.com/tx/60830978f0dc34c831f1aa3987406fe677730e535a5bae522d70a55f424da4f6"
+    },
+    {
+        "rarebearz": "90",
+        "id": "20352",
+        "inscription": "955c7a5a8845d7cb850fadcbabc6fd2a1822c3ecfdc68eb839f2cc89adcd9676",
+        "link": "https://ordinalslite.com/tx/955c7a5a8845d7cb850fadcbabc6fd2a1822c3ecfdc68eb839f2cc89adcd9676"
+    },
+    {
+        "rarebearz": "91",
+        "id": "20379",
+        "inscription": "218a0cf2dd0e691509b355539d6856bd87c44748c99447088517480b14cfefbf",
+        "link": "https://ordinalslite.com/tx/218a0cf2dd0e691509b355539d6856bd87c44748c99447088517480b14cfefbf"
+    },
+    {
+        "rarebearz": "92",
+        "id": "20380",
+        "inscription": "b931c13bbd165cc599e38892f7457ede478b9149bbb3fca42118573f00e3820d",
+        "link": "https://ordinalslite.com/tx/b931c13bbd165cc599e38892f7457ede478b9149bbb3fca42118573f00e3820d"
+    },
+    {
+        "rarebearz": "93",
+        "id": "20381",
+        "inscription": "3c8a8d2e00f0c9b9d3ce5a72f593c64f6251eba9b9bebf26f7842460843f1c0d",
+        "link": "https://ordinalslite.com/tx/3c8a8d2e00f0c9b9d3ce5a72f593c64f6251eba9b9bebf26f7842460843f1c0d"
+    },
+    {
+        "rarebearz": "94",
+        "id": "20404",
+        "inscription": "cddaf95b5f513c757d650a6b055f9b9d5161331074f934b3898b31abfdd9f5ad",
+        "link": "https://ordinalslite.com/tx/cddaf95b5f513c757d650a6b055f9b9d5161331074f934b3898b31abfdd9f5ad"
+    },
+    {
+        "rarebearz": "95",
+        "id": "20405",
+        "inscription": "3ebb4486d70342a1f851811d2e2db02b2d4b59b351af6b1cadc283fc4d0160bd",
+        "link": "https://ordinalslite.com/tx/3ebb4486d70342a1f851811d2e2db02b2d4b59b351af6b1cadc283fc4d0160bd"
+    },
+    {
+        "rarebearz": "96",
+        "id": "20406",
+        "inscription": "119681d81852e60b775fb442aa20376a5f5959c68b84be0ca9c5938018d4705a",
+        "link": "https://ordinalslite.com/tx/119681d81852e60b775fb442aa20376a5f5959c68b84be0ca9c5938018d4705a"
+    },
+    {
+        "rarebearz": "97",
+        "id": "20417",
+        "inscription": "805997e16211c0622dcb3249244580cfc403ef95b2f661e3c363bcb567e47be2",
+        "link": "https://ordinalslite.com/tx/805997e16211c0622dcb3249244580cfc403ef95b2f661e3c363bcb567e47be2"
+    },
+    {
+        "rarebearz": "98",
+        "id": "20418",
+        "inscription": "f6de819072c9a7a1e1f57d2a6e05dc39c4f2ee23f35245ca606ccadf4a6761be",
+        "link": "https://ordinalslite.com/tx/f6de819072c9a7a1e1f57d2a6e05dc39c4f2ee23f35245ca606ccadf4a6761be"
+    },
+    {
+        "rarebearz": "99",
+        "id": "20701",
+        "inscription": "523ea83bac35257f94bc3d8ee612adee6066041f7e64a4bb94d4540953c9ad47",
+        "link": "https://ordinalslite.com/tx/523ea83bac35257f94bc3d8ee612adee6066041f7e64a4bb94d4540953c9ad47"
+    },
+    {
+        "rarebearz": "100",
+        "id": "20736",
+        "inscription": "b5f303ab565c02edb7ea46ac72171f0266d0380a0cbfd1f2b85eeff76cefd525",
+        "link": "https://ordinalslite.com/tx/b5f303ab565c02edb7ea46ac72171f0266d0380a0cbfd1f2b85eeff76cefd525"
+    }
+]
